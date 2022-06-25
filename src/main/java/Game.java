@@ -1,17 +1,17 @@
 public abstract class Game {
     private String name;
 
-    public void Name (String name){
-        this.name=name;
-    }
     public abstract double DurationCalculate();
+    public abstract double UploadTime();
+
 
     public void Goodluck(){
         System.out.println("GOOD LUCK!!");
     }
-
-
-    public String Name2(){
+    public void Name (String name){
+        this.name=name;
+    }
+    public String getName(){
         return this.name;
     }
 
