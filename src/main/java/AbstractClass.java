@@ -1,5 +1,5 @@
 
-// Sözel ödevler "resources" doyası altında bulunabilir.
+// Not:Sözel ödevler "resources" doyası altında bulunabilir.
 
 public class AbstractClass {
     public static void main(String[] args){
