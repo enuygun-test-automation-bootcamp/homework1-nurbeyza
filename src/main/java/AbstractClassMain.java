@@ -1,7 +1,7 @@
 
 // Not:Sözel ödevler "resources" doyası altında bulunabilir.
 
-public class AbstractClass {
+public class AbstractClassMain {
     public static void main(String[] args){
 
         GTA gta= new GTA();
