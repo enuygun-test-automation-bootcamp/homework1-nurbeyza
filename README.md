@@ -1,2 +1,2 @@
 # homework1
-ödev1
+Beyznur Özer Hafta 1 Ödevleri
